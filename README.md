@@ -1,0 +1,2 @@
+# glogger
+Joomla Global Logging
