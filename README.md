@@ -1,6 +1,8 @@
 # glogger: Joomla Global Logging
+<p>gLogger started as a simple class to extend the standard JLog class so that the logging information was saved in a table rather than in text files scattered around the \logs folder.  Initially, it just stored standard data so that I could view in a single place.  I quickly realized that all sorts of other pertinant data was available, and that may other functions could be incorporated.
+</p>
 
-Here's my initial offering.  It started as a Class to extend JLog, and then a quick UI to see the data, then some methods, then some of this, and some of that to see if....  Long story short, it was never "designed", it's been a series of tweaks and experiments to see how usable I can make it.  If there is any serious interest in using it, I'll likely refactor some things and clean up the code - please don't judge me based on the guts of this thing, lol.
+<p>Here's my initial offering.  It started as a Class to extend JLog, and then a quick UI to see the data, then some methods, then some of this, and some of that to see if....  Long story short, it was never "designed", it's been a series of tweaks and experiments to see how usable I can make it.  If there is any serious interest in using it, I'll likely refactor some things and clean up the code - please don't judge me based on the guts of this thing, lol.</p>
 
 <p><strong>Main gLogger Listing View</strong> Allows sorting/filtering/selelection of all gLog records in the database.
   <img src="01_glogs.png" width="100%"/>
