@@ -5,11 +5,11 @@
 <p>Here's my initial offering.  It started as a Class to extend JLog, and then a quick UI to see the data, then some methods, then some of this, and some of that to see if....  Long story short, it was never "designed", it's been a series of tweaks and experiments to see how usable I can make it.  If there is any serious interest in using it, I'll likely refactor some things and clean up the code - please don't judge me based on the guts of this thing, lol.</p>
 
 <p><strong>Main gLogger Listing View</strong> Allows sorting/filtering/selelection of all gLog records in the database.
-  <img src="01_glogs.png" width="100%"/>
+  <img src="/screenshots/01_glogs.png" width="100%"/>
 </p>
 
 <p><strong>gLog Details</strong> The basic information about the gLogger record, and the Plain Text consolition of it's entries
-  <img src="02_glog.png" width="100%"/>
+  <img src="screenshots/02_glog.png" width="100%"/>
 </p>
 
 <p><strong>gLog Entries</strong> Each gLog Entry shown wtih jsTree, including the full backtrace of each call
